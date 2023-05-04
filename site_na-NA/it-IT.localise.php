@@ -2,9 +2,9 @@
 /**
  * @package    Joomla.Language
  * @version	$Id: language.php ì$
- * @copyright	Copyright (C) 2011 Open Source Matters, Inc.  <https://www.joomla.org>
+ * @copyright	Copyright (C) 2011 Frittata300uova, Inc.  <https://www.joomla.org>
  * @copyright	Copyright (C) Translation 2008 - 2017 joomla.it
- * @copyright (C) Translation 2018 - 2021 Catenacciu Translation Team
+ * @copyright (C) Translation 2018 - 2021 Frittata300uova
  * @license	GNU General Public License version 2 or later; see LICENSE.txt
  */
 
