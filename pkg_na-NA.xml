@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension type="package" version="3.8" method="upgrade">
+	<name>Napule Language Pack</name>
+	<packagename>na-NA</packagename>
+	<version>3.10.11.1</version>
+	<creationDate>Maggio 2023</creationDate>
+	<author>Catenacciu Translation Team</author>
+	<authorEmail>vincenzo.argese@gmail.com</authorEmail>
+	<authorUrl>www.joomla.org</authorUrl>
+	<copyright>(C) 2019 Open Source Matters, Inc. e Catenacciu Translation Team. Tutti i diritti riservati</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<url></url>
+	<packager>Joomla! Italia</packager>
+	<packagerurl>www.joomla.org</packagerurl>
+	<description>Joomla! 3.10 Full Napule (na-NA) Language Package - Version 3.10.11v1</description>
+	<blockChildUninstall>true</blockChildUninstall>
+	<files>
+	    <folder type="language" client="site" id="na-NA">site_na-NA</folder>
+	    <folder type="language" client="administrator" id="na-NA">admin_na-NA</folder>
+	</files>
+	<updateservers>
+	    <server type="collection" priority="1" name="Accredited Joomla! Translations">https://update.joomla.org/language/translationlist_3.xml</server>
+	</updateservers>
+</extension>

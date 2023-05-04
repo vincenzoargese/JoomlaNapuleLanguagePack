@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metafile version="3.9" client="administrator">
+	<tag>na-NA</tag>
+	<name>Napule (IT)</name>
+	<description>Napule admin language for Joomla 3.10</description>
+	<version>3.10.11.1</version>
+	<creationDate>Maggio 2023</creationDate>
+	<author>Catenacciu Translation Team </author>
+	<authorEmail>vincenzo.argese@gmail.com</authorEmail>
+	<authorUrl>www.joomla.org</authorUrl>
+	<copyright>Copyright (C) 2005 Open Source Matters, Inc. and Catenacciu Translation Team</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<metadata>
+		<name>Napule (Italy)</name>
+		<nativeName>Napuleo (Italia)</nativeName>
+		<tag>na-NA</tag>
+		<rtl>0</rtl>
+		<locale>it_IT.utf8, it_IT.UTF-8, it_IT, ita_IT, it, Napule, Napule-it, IT, ita, italy, it_IT.UTF-8@euro, Napule_Standard, na-NA</locale>
+		<firstDay>1</firstDay>
+		<weekEnd>0,6</weekEnd>
+		<calendar>gregorian</calendar>
+	</metadata>
+	<params />
+</metafile>
