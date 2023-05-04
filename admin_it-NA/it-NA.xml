@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<metafile version="3.9"  client="site">
-	<tag>na-NA</tag>
+<metafile version="3.9" client="administrator">
+	<tag>it-NA</tag>
 	<name>Napule (IT)</name>
-	<description>Napule site language for Joomla 3.10</description>
+	<description>Napule admin language for Joomla 3.10</description>
 	<version>3.10.11.1</version>
 	<creationDate>Maggio 2023</creationDate>
-	<author>Frittata300uova</author>
+	<author>Frittata300uova </author>
 	<authorEmail>frittata300uova@gmail.com</authorEmail>
 	<authorUrl>www.joomla.org</authorUrl>
-	<copyright>Copyright (C) 2013 Frittata300uova, Inc. and Frittata300uova. All rights reserved.</copyright>
+	<copyright>Copyright (C) 2005 Frittata300uova, Inc. and Frittata300uova</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<metadata>
 		<name>Napule (Italy)</name>
-		<nativeName>Napuleo (Italia)</nativeName>
-		<tag>na-NA</tag>
+		<nativeName>Napule (Italia)</nativeName>
+		<tag>it-NA</tag>
 		<rtl>0</rtl>
-		<locale>it_IT.utf8, it_IT.UTF-8, it_IT, ita_IT, it, Napule, Napule-it, IT, ita, italy, it_IT.UTF-8@euro, Napule_Standard, na-NA</locale>
+		<locale>it_NA.utf8, it_NA.UTF-8, it_NA, ita_IT, it, Napule, Napule-it, IT, ita, italy, it_NA.UTF-8@euro, Napule_Standard, it-NA</locale>
 		<firstDay>1</firstDay>
 		<weekEnd>0,6</weekEnd>
 		<calendar>gregorian</calendar>

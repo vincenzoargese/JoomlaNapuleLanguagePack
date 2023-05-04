@@ -15,7 +15,7 @@ defined('_JEXEC') or die;
  *
  * @since  1.6
  */
-abstract class it_ITLocalise
+abstract class it_NALocalise
 {
 	/**
 	 * Returns the potential suffixes for a specific number of items
